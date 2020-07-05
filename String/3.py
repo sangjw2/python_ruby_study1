@@ -1,0 +1,5 @@
+print('Hello \"world\'')
+print("\\")
+print("Hello\nWorld")
+print('Hello\tWorld')
+print("\a")

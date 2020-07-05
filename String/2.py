@@ -1,0 +1,5 @@
+print('hello world'.capitalize())
+print('hello world'.upper())
+print('hello'.__len__())
+print(len('hello wolrd'))
+print('Hello World'.replace('World','Jaewon'))

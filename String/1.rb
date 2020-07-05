@@ -1,0 +1,6 @@
+puts('Hello')
+puts("Hello")
+puts("Hello 'World'")
+puts('Hello '+'World')
+puts('Hello '*3)
+puts('Hello'[0])
